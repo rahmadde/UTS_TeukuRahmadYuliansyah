@@ -40,7 +40,7 @@
                     </tr>
                     <tr>
                         <th scope="row">Gaji</th>
-                        <td>: <?=$gaji?></td>
+                        <td>: Rp. <?=$gaji?></td>
                     </tr>
                 </table>
                 <a href="index.php" class="btn btn-info">Halaman Utama</a>

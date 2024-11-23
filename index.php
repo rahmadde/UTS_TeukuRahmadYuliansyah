@@ -51,7 +51,7 @@
                             <a href="" class="btn btn-info btn-sm">
                                 Edit
                             </a>
-                            <a href="" class="btn btn-danger btn-sm">
+                            <a href="hapus.php?id=<?php echo $data['id_karyawan']; ?>" class="btn btn-danger btn-sm">
                                 Hapus
                             </a>
                             </td>

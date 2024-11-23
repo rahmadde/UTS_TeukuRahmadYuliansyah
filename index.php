@@ -48,7 +48,7 @@
                             <td><?=$data['tanggal_masuk']?></td>
                             <td><?=$data['gaji']?></td>
                             <td>
-                            <a href="" class="btn btn-info btn-sm">
+                            <a href="edit.php" class="btn btn-info btn-sm">
                                 Edit
                             </a>
                             <a href="hapus.php?id=<?php echo $data['id_karyawan']; ?>" class="btn btn-danger btn-sm">

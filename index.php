@@ -11,7 +11,7 @@
         <div class="card-header">
             <h3 class="float-start">Employee Manager</h3>
             <span class="float-end">
-                <a href="" class="btn btn-success">
+                <a href="tambah_data.php" class="btn btn-success">
                     <font class="">Tambah Data</font>
                 </a>
             </span>

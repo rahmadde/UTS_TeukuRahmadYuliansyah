@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="css/bootstrap.css">
 </head>
 <body>
-    <form action="" method="post">
+    <form action="proses.php" method="post">
         <div class="card col-6 mt-5 m-auto col-7 row">
             <div class="card-header">
                 <h3>Tambah Data Karyawan</h3>
